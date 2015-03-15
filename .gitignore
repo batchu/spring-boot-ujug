@@ -1,7 +1,11 @@
 Hello World/.idea
 Hello World/target
 Hello World/.settings
+Hello World/.project
 Hello World/.classpath
 Hello World/demo.iml
-
+JPA/target
+JPA/.settings
+JPA/.classpath
+JPA/.project
 
